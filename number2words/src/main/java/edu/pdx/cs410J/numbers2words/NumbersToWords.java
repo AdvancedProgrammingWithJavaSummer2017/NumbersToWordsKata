@@ -2,7 +2,7 @@ package edu.pdx.cs410J.numbers2words;
 
 import edu.pdx.cs410J.AbstractFlight;
 
-public class Flight extends AbstractFlight {
+public class NumbersToWords extends AbstractFlight {
   @Override
   public int getNumber() {
     return 42;

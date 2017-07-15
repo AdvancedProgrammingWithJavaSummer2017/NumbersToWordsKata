@@ -24,3 +24,11 @@ hs_err_pid*
 # Maven artifacts
 dependency-reduced-pom.xml
 target
+
+# IntelliJ files
+.idea
+*.iml
+
+# Misc
+.DS_Store
+*.~*

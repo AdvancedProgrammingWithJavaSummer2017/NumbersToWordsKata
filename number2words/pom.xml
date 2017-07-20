@@ -16,10 +16,77 @@
   <url>http://www.cs.pdx.edu/~whitlock</url>
   <developers>
     <developer>
+<<<<<<< HEAD
       <id>935009816</id>
       <name>Bin Gao</name>
       <email>gaobin@pdx.edu</email>
       <url>http://www.cs.pdx.edu/~YOU</url>
+=======
+    <id>whitlock</id>
+    <name>David Whitlock</name>
+    <email>whitlock@cs.pdx.edu</email>
+    <url>http://www.cs.pdx.edu/~whitlock</url>
+    <organization>PSU Department of Computer Science</organization>
+    <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
+    <roles>
+      <role>Professor</role>
+    </roles>
+    <timezone>-7</timezone>
+  </developer>
+    <developer>
+      <id>patter5</id>
+      <name>Jeff Pattterson</name>
+      <email>patter5@pdx.edu</email>
+      <url>http://www.cs.pdx.edu/~patter5</url>
+      <organization>PSU Department of Computer Science</organization>
+      <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
+      <roles>
+        <role>Student</role>
+      </roles>
+      <timezone>-7</timezone>
+    </developer>
+    <developer>
+      <id>anturner</id>
+      <name>Andy Turner Anthony Tran</name>
+      <email>anturner@pdx.edu</email>
+      <url>http://www.cs.pdx.edu/~anturner</url>
+      <organization>PSU Department of Computer Science</organization>
+      <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
+      <roles>
+        <role>Student</role>
+      </roles>
+      <timezone>-7</timezone>
+    </developer>
+    <developer>
+    <id>murphpdx</id>
+    <name>Amanda Murphy</name>
+    <email>murphyam@pdx.edu</email>
+    <url>http://www.cs.pdx.edu/~murphyam</url>
+    <organization>PSU Department of Computer Science</organization>
+    <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
+    <roles>
+      <role>Student</role>
+    </roles>
+    <timezone>-7</timezone>
+  </developer>
+    <developer>
+      <id>llawrens</id>
+      <name>Liz Lawrens</name>
+      <email>llawrens@pdx.edu</email>
+      <url> </url>
+      <organization>PSU Department of Computer Science</organization>
+      <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
+      <roles>
+        <role>Student</role>
+      </roles>
+      <timezone>-7</timezone>
+    </developer>
+    <developer>
+      <id>nivedit</id>
+      <name>Niveditha Venugopal</name>
+      <email>nivedit@pdx.edu</email>
+      <url> </url>
+>>>>>>> 0e4347d28f84fd463018f34cbe2f2611b7a5db8d
       <organization>PSU Department of Computer Science</organization>
       <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
       <roles>

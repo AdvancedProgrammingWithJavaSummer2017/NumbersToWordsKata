@@ -16,12 +16,12 @@
   <url>http://www.cs.pdx.edu/~whitlock</url>
   <developers>
     <developer>
-<<<<<<< HEAD
-      <id>935009816</id>
+      <id>bin</id>
       <name>Bin Gao</name>
       <email>gaobin@pdx.edu</email>
       <url>http://www.cs.pdx.edu/~YOU</url>
-=======
+    </developer>
+      <developer>
     <id>whitlock</id>
     <name>David Whitlock</name>
     <email>whitlock@cs.pdx.edu</email>
@@ -86,7 +86,6 @@
       <name>Niveditha Venugopal</name>
       <email>nivedit@pdx.edu</email>
       <url> </url>
->>>>>>> 0e4347d28f84fd463018f34cbe2f2611b7a5db8d
       <organization>PSU Department of Computer Science</organization>
       <organizationUrl>http://www.cs.pdx.edu</organizationUrl>
       <roles>

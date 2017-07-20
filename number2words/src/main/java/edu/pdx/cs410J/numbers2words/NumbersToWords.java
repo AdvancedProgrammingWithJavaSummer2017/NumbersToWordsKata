@@ -2,7 +2,6 @@ package edu.pdx.cs410J.numbers2words;
 
 public class NumbersToWords {
 
-<<<<<<< HEAD
     public static void main(String[] args) {
         String result = NumbersToWords.convert(Integer.MAX_VALUE);
         System.out.println(result);
@@ -121,16 +120,5 @@ public class NumbersToWords {
                 return "Ninety";
         }
         return null;
-=======
-    public String parse(String input) throws IllegalArgumentException {
-
-        if(input.equals("1")) {
-            return "One Dollar";
-        }
-        else if(input.equals("2")){
-            return "Two";
-        }
-        throw new IllegalArgumentException("Bad argument: " + input);
->>>>>>> 0e4347d28f84fd463018f34cbe2f2611b7a5db8d
     }
 }
